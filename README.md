@@ -1,9 +1,6 @@
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Juevee&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=midnight-purple"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juevee&layout=compact&card_width=445&hide_border=true&theme=midnight-purple"/>
-
 <!--
-**useragents/useragents** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RangiLyu/RangiLyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"><a href="https://github.com/Juevee?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Juevee&theme=vue&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/></a>    <a href="https://github.com/Juevee?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Juevee&theme=vue&layout=compact" alt="top langs" height="156"/></a></p>
+
+
